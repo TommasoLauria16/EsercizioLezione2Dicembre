@@ -28,7 +28,7 @@ namespace LibreriaEs2_12
                     countD++;
                 }
             }
-            Console.WriteLine($"i numeri pari sono: {countP};\ni numeri dispari: {countD}.");
+            Console.WriteLine($"i numeri pari sono: {countP};\ni numeri dispari: {countD}. ");
         }
     }
 }
